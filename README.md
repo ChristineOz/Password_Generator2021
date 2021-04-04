@@ -5,4 +5,6 @@ how many characters to choose your password between 8 to 128 characters. The fol
 
 <img width="1079" alt="Screen Shot 2021-02-27 at 9 05 06 PM" src="https://user-images.githubusercontent.com/77952267/109405601-245eea00-7940-11eb-8df8-5340f23323cd.png">
 
+<img width="448" alt="Screen Shot 2021-04-04 at 12 00 50 AM" src="https://user-images.githubusercontent.com/77952267/113498287-84b1f000-94d9-11eb-8fff-b0fc2324ab1f.png">
+
 https://christineoz.github.io/Password_Generator2021/.
